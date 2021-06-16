@@ -15,7 +15,7 @@
 1. 基于DenseNet模型的深度学习训练垃圾数据集的算法
 2. 垃圾分类系统的服务器端代码
 
-# 垃垃小分队项目的前端界面效果展示
+# 垃垃小分队项目的前端界面效果展示 
 
 1. [基于PyQt5的前端界面](https://github.com/Vanish-Zeng/Refuse-Classification-qt5)
 

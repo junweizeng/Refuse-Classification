@@ -34,7 +34,7 @@
 
    ![image-20210617070816934](https://i.loli.net/2021/06/17/92NvtXE5PhrABik.png)
 
-3. 基于vue的前端界面
+3. [基于vue的前端界面](https://github.com/ywww128/refuse_classification_ui)
 
    ![image-20210617070943370](https://i.loli.net/2021/06/17/KfUGTyxO8sNMPFQ.png)
 
